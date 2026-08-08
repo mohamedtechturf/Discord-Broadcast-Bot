@@ -92,8 +92,8 @@ client.on(Events.MessageCreate, async (message) => {
                                     url: "https://discord.com/terms",
                                     iconURL: client.user.displayAvatarURL()
                                 })
-                                .setTitle("Click here to buy a new bot")
-                                .setURL("https://discord.com/invite/z8EpwSpXwD")
+                                .setTitle("Join MTT Community")
+                                .setURL("https://discord.gg/UcfxAq6HHn")
                                 .setDescription("Your bot has been banned by Discord's API Anti-Spam system because it reached the rate limit of sending messages.")
                                 .addFields({
                                     name: "Broadcast state before ban:",
@@ -103,8 +103,8 @@ client.on(Events.MessageCreate, async (message) => {
                                 .setThumbnail("https://media.discordapp.net/attachments/1183690505264058448/1276883287469457489/denied.png?ex=66cb25bb&is=66c9d43b&hm=cea0e31118c1e38b8fa297dc8e13de4c4f71bb54caed62eafe32eb5e12f007c1&=&format=webp&quality=lossless&width=468&height=468")
                                 .setColor("#ff0000")
                                 .setFooter({
-                                    text: "By ThraxCast",
-                                    iconURL: "https://images-ext-1.discordapp.net/external/fnT9iHIEIQfq41pNaJvRKHKol1HHDsh3y-Uyb1h_CD4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1163179670968205333/a_ea12d747912047a77fd30fa25e277d00.gif",
+                                    text: "By MohamedTechTurf",
+                                    iconURL: "https://cdn.discordapp.com/attachments/1420016992462831656/1535760264740470884/takumi-fujiwara-foto.jpg?ex=6a78efb4&is=6a779e34&hm=9df2070d3f700faba87e437bee18fc9677a834a18891ac17b542f7f1dc5c7a54",
                                 })
                                 .setTimestamp();
 
@@ -131,11 +131,11 @@ client.on(Events.MessageCreate, async (message) => {
                 })
                 .setTitle(`Hello ${displayName}, If you have any problem with the bot contact us`)
                 .setDescription("Click on the link above to be redirected to the support server")
-                .setURL("https://discord.gg/9qBvzRrcwe")
+                .setURL("https://discord.gg/UcfxAq6HHn")
                 .setThumbnail(message.guild.iconURL({ size: 2048 }))
                 .setFooter({
-                    text: "By ThraxCast",
-                    iconURL: "https://images-ext-1.discordapp.net/external/fnT9iHIEIQfq41pNaJvRKHKol1HHDsh3y-Uyb1h_CD4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1163179670968205333/a_ea12d747912047a77fd30fa25e277d00.gif",
+                    text: "By MohamedTechTurf",
+                    iconURL: "https://cdn.discordapp.com/attachments/1420016992462831656/1535760264740470884/takumi-fujiwara-foto.jpg?ex=6a78efb4&is=6a779e34&hm=9df2070d3f700faba87e437bee18fc9677a834a18891ac17b542f7f1dc5c7a54",
                 })
                 .setTimestamp();
 
@@ -155,8 +155,8 @@ client.on(Events.MessageCreate, async (message) => {
                 .setDescription(`**${prefix}help**\n> \`Shows a guide of how to use the bot.\`\n**${prefix}obc**\n> \`Sends a specific message only to online members in the server.\`\n**${prefix}bc**\n> \`Sends a specific message to all members in the server.\`\n**${prefix}support**\n> \`Sends the official support server\`\n**${prefix}ping**\n> \`Pings the bot to test its latency.\``)
                 .setThumbnail(message.guild.iconURL({ size: 2048 }))
                 .setFooter({
-                    text: "By ThraxCast",
-                    iconURL: "https://images-ext-1.discordapp.net/external/fnT9iHIEIQfq41pNaJvRKHKol1HHDsh3y-Uyb1h_CD4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1163179670968205333/a_ea12d747912047a77fd30fa25e277d00.gif",
+                    text: "By MohamedTechTurf",
+                    iconURL: "https://cdn.discordapp.com/attachments/1420016992462831656/1535760264740470884/takumi-fujiwara-foto.jpg?ex=6a78efb4&is=6a779e34&hm=9df2070d3f700faba87e437bee18fc9677a834a18891ac17b542f7f1dc5c7a54",
                 })
                 .setTimestamp();
 
@@ -181,8 +181,8 @@ client.on(Events.MessageCreate, async (message) => {
             .setDescription(`**${prefix}help**\n> \`Shows a guide of how to use the bot.\`\n**${prefix}obc**\n> \`Sends a specific message only to online members in the server.\`\n**${prefix}bc**\n> \`Sends a specific message to all members in the server.\`\n**${prefix}support**\n> \`Sends the official support server\`\n**${prefix}ping**\n> \`Pings the bot to test its latency.\``)
             .setThumbnail(message.guild.iconURL({ size: 2048 }))
             .setFooter({
-                text: "By ThraxCast",
-                iconURL: "https://images-ext-1.discordapp.net/external/fnT9iHIEIQfq41pNaJvRKHKol1HHDsh3y-Uyb1h_CD4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1163179670968205333/a_ea12d747912047a77fd30fa25e277d00.gif",
+                text: "By MohamedTechTurf",
+                iconURL: "https://cdn.discordapp.com/attachments/1420016992462831656/1535760264740470884/takumi-fujiwara-foto.jpg?ex=6a78efb4&is=6a779e34&hm=9df2070d3f700faba87e437bee18fc9677a834a18891ac17b542f7f1dc5c7a54",
             })
             .setTimestamp();
 
