@@ -64,5 +64,6 @@ If the bot runs into unexpected crashes or fails to send a message, check the ge
 * `error.log`: Text logs containing exact system execution crash reports.
 * `errors.json`: Structured registry tracking internal automation exceptions.
 
-## License
-This project is open-source. Feel free to modify and adapt it for your specific server needs!
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
