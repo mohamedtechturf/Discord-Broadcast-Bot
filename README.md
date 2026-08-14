@@ -1,6 +1,6 @@
 # Discord Broadcast Bot 🤖
 
-A streamlined Discord broadcast bot built using **Discord.JS V13**. This bot allows server administrators to seamlessly broadcast customized messages or announcements across designated channels or to specific roles.
+A streamlined Discord broadcast bot built using **Discord.js V13**. This bot allows server administrators to seamlessly broadcast customized messages or announcements across designated channels or to specific roles.
 
 ## Features
 * 📢 Efficient bulk messaging and broadcasting system.
