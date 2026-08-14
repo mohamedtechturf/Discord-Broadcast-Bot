@@ -70,7 +70,7 @@ To start the bot, you can choose either of these methods:
 If the bot runs into unexpected crashes or fails to send a message, check the generated local debugging files:
 * `error.log`: Text logs containing exact system execution crash reports.
 * `errors.json`: Structured registry tracking internal automation exceptions.
-- If you find any bugs, feel free to open an [issue](../../issues).
+* If you find any bugs, feel free to open an [issue](../../issues).
 
 ## 📄 License
 
