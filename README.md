@@ -20,7 +20,7 @@ Follow these steps to get your broadcast bot up and running:
 ### 1. Clone the Repository
 Download or clone this repository to your local system:
 ```bash
-git clone https://github.com
+git clone https://github.com/mohamedtechturf/Discord-Broadcast-Bot
 cd Discord-Broadcast-Bot
 ```
 
