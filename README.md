@@ -2,19 +2,19 @@
 
 A streamlined Discord broadcast bot built using **Discord.js v13**. This bot allows server administrators to seamlessly broadcast customized messages or announcements across designated channels or to specific roles.
 
-## Features
+## 🚀 Features
 
 * 📢 Efficient bulk messaging and broadcasting system.
 * ⚙️ Easy setup using a local configuration file.
 * 📑 Error logging automated via native JSON and log tracking files.
 
-## Prerequisites
+## 📦 Prerequisites
 
 Before setting up the bot, ensure you have the following installed on your machine:
 * [Node.js](https://nodejs.org) (**Version 16.x or lower** is strictly required for Discord.js v13 compatibility)
 * A code editor like [VS Code](https://visualstudio.com) or Notepad++
 
-## Installation & Setup
+## 💻 Installation & Setup
 
 Follow these steps to get your broadcast bot up and running:
 
