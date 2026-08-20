@@ -72,6 +72,10 @@ If the bot runs into unexpected crashes or fails to send a message, check the ge
 * `errors.json`: Structured registry tracking internal automation exceptions.
 * If you find any bugs, feel free to open an [issue](../../issues).
 
+# ⚠️ DISCLAIMER
+
+Running automated broadcasting bots can easily violate Discord’s Terms of Service (ToS) and get your developer tokens or account permanently banned for spamming.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
