@@ -30,7 +30,7 @@ cd Discord-Broadcast-Bot
 
 Initialize the necessary node modules by running:
 ```bash
-npm install
+npm install discord.js@latest
 ```
 
 ### 3. Create a Discord Bot Application
